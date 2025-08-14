@@ -21,9 +21,7 @@ Includes start/pause/resume/reset controls, a circular progress ring with gradie
 
 ## Preview
 
-> Add your screenshot/GIF to `art/preview.png` and the link below will work.
-
-![Timer Preview](art/preview.png)
+![Screenshot](https://github.com/user-attachments/assets/8c44ac2c-eeb8-4301-999d-632a60042b2e)
 
 ---
 
